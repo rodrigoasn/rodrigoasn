@@ -1,12 +1,6 @@
-<p align="center" style="font-size: 30px;">
-  <b>Hi 👋, I'm Rodrigo Sarmento. Welcome!</b><br>
-</p>
+# <p align="center"> Hi 👋, I'm Rodrigo Sarmento. Welcome!
 
-<p align="center" style="font-size: 18px;">
-  👨‍💻 I am passionate about technology, education, and changing people's lives through programming.
-  <br>
-  <marquee>🦌🦌🎅</marquee>
-</p>
+### <p align="center">👨‍💻 I am passionate about technology, education, and changing people's lives through programming.
 
 #
 
