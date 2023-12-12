@@ -1,4 +1,6 @@
-# <center>Hi 👋, I'm Rodrigo Sarmento. Welcome!!</center>
+<center>
+# Hi 👋, I'm Rodrigo Sarmento. Welcome!
+</center>
 
 ### 👨‍💻 i am passionate about technology, education, and changing people's lives through programming.
 
