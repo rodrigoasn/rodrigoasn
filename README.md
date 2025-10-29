@@ -44,10 +44,8 @@
 
 - [Tupperware-AL](https://tupperware.pubye.info/)</br>
 - [Tupperware-AL Wordpress website](https://tupperwarepajucara.com.br/)</br>
-- [SGD CYMI BR](https://cymi.pubye.info/)</br>
+- [SGD CYMI BR](https://cymi.iadocspubye.com.br/)</br>
 - [JPW Engenharia SaaS](https://jpw.pubye-saas.com.br/)</br>
-- [SGD Neivas, Politron, JPW Paineis, JPW Solar](https://neivas.pubye.info/)</br>
-- [SGD Eletrobras Chesf](https://sgdchesf.pubye.info/)</br>
 - [SGM Eletrobras Chesf](https://sgmchesf.pubye.info/)</br>
 - [Plataforma de Gestão de Condomínios](https://sgac.pubye.info/)</br>
 
