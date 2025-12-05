@@ -50,11 +50,3 @@
 - [Plataforma de Gestão de Condomínios](https://sgac.pubye.info/)</br>
 
 #
-
-### ➡️My Stats:
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Sarmento&show_icons=true&theme=merko&include_all_commits=false&count_private=true" alt="Estatísticas do Rodrigo" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Sarmento&layout=compact&langs_count=8&theme=merko" alt="Linguagens mais usadas" />
-</div>
