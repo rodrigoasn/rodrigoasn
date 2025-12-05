@@ -53,5 +53,7 @@
 
 ### ➡️My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoasn&show_icons=true&theme=merko) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoasn&langs_count=8)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoasn&show_icons=true&theme=merko&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do Rodrigo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoasn&layout=compact&langs_count=8&theme=merko" height="180" alt="Linguagens mais usadas" />
+</div>
