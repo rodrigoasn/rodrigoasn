@@ -54,6 +54,7 @@
 ### ➡️My Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoasn&show_icons=true&theme=merko&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do Rodrigo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoasn&layout=compact&langs_count=8&theme=merko" height="180" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Sarmento&show_icons=true&theme=merko&include_all_commits=false&count_private=true" alt="Estatísticas do Rodrigo" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Sarmento&layout=compact&langs_count=8&theme=merko" alt="Linguagens mais usadas" />
 </div>
