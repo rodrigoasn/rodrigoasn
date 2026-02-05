@@ -39,14 +39,3 @@
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 
 #
-
-### ➡️A few of my works
-
-- [Tupperware-AL](https://tupperware.pubye.info/)</br>
-- [Tupperware-AL Wordpress website](https://tupperwarepajucara.com.br/)</br>
-- [SGD CYMI BR](https://cymi.iadocspubye.com.br/)</br>
-- [JPW Engenharia SaaS](https://jpw.pubye-saas.com.br/)</br>
-- [SGM Eletrobras Chesf](https://sgmchesf.pubye.info/)</br>
-- [Plataforma de Gestão de Condomínios](https://sgac.pubye.info/)</br>
-
-#
